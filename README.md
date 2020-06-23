@@ -25,6 +25,9 @@ This is a mirror of my style [NewsBlur Dark Theme by Prognoz](http://userstyles.
 hosted in [userstyles.org](https://userstyles.org). And this repository will now be the official
 place to distribute the style, since userstyles is basically dead.
 
+This is a fork from the flareback NewsBlur Dark version with some contrast issues fixed and some 
+details changed to match my taste.
+
 ## License
 
 [CC0 - Public Domain](https://creativecommons.org/share-your-work/public-domain/cc0/)
